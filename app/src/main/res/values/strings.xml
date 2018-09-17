@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Pong Carpenter Lucas</string>
+    <string name="playText">Play</string>
+    <string name="instText">Instructions</string>
+    <string name="optText">Options</string>
+    <string name="quitText">Quit</string>
+
+    <string name="inst_label">Instructions</string>
+    <string name="inst_play_label">How to Play</string>
+    <string name="inst_play_text">After clicking play on the main menu screen, you will be taken to
+    a game area. In this game area you can prepare and get ready. When the screen is touched, the ball begins moving.
+    The goal is to keep the ball from hitting the bottom of the screen. You can grab the paddle and move it around to
+    deflect the ball away from the bottom of the screen, but your ball will change direction depending on where it was
+    hit on the paddle, so keep that in mind. Every hit on your paddle is another point, if you hit the bottom of the
+    screen, you start over. </string>
+    <string name="inst_options_label">Options</string>
+    <string name="inst_options_text">The options page gives you different ways to change the game experience. Currently
+    the only changes that can be made are color changes to the paddle and the ball.</string>
+
+    <string name="opt_ball_label">Ball Color</string>
+    <string name="opt_paddle_label">Paddle Color</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">OK</string>
+</resources>
